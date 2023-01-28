@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba N2 henry
+este proyecto es una prueba de repositorio y hacer un edid
